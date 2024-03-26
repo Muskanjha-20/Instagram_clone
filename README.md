@@ -1,6 +1,6 @@
-# insta_app
+# insta_app_clone
 
-A new Flutter project.
+A new Flutter project using Dart Flutter
 
 ## Getting Started
 
